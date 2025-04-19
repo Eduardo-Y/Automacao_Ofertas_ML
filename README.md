@@ -3,7 +3,7 @@
 # 🛒 Web Scraper de Ofertas - Mercado Livre  
 
 ## 📌 Descrição  
-Este projeto é um **web scraper** desenvolvido em **Python** utilizando **Selenium** e **Pandas** para coletar informações sobre produtos em oferta no site **Mercado Livre**. A ferramenta automatiza a extração de dados como nome do produto, preços original e promocional, além da porcentagem de desconto.
+Este projeto é um **web scraper** desenvolvido em **Python** utilizando **Selenium** e **Pandas** para coletar informações sobre produtos em oferta no **Mercado Livre**. A ferramenta automatiza a extração de dados como nome do produto, preços original e promocional, além da porcentagem de desconto.
 
 ## 🚀 Funcionalidades  
 - Coleta informações de produtos a partir das páginas de ofertas do Mercado Livre.  
